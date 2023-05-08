@@ -1,0 +1,12 @@
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\bin\Debug\net6.0\Redington.ProbabilityCalculator.Services.deps.json
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\bin\Debug\net6.0\Redington.ProbabilityCalculator.Services.dll
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\bin\Debug\net6.0\Redington.ProbabilityCalculator.Services.pdb
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\obj\Debug\net6.0\Redington.ProbabilityCalculator.Services.csproj.AssemblyReference.cache
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\obj\Debug\net6.0\Redington.ProbabilityCalculator.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\obj\Debug\net6.0\Redington.ProbabilityCalculator.Services.AssemblyInfoInputs.cache
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\obj\Debug\net6.0\Redington.ProbabilityCalculator.Services.AssemblyInfo.cs
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\obj\Debug\net6.0\Redington.ProbabilityCalculator.Services.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\obj\Debug\net6.0\Redington.ProbabilityCalculator.Services.dll
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\obj\Debug\net6.0\refint\Redington.ProbabilityCalculator.Services.dll
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\obj\Debug\net6.0\Redington.ProbabilityCalculator.Services.pdb
+C:\Users\james\Documents\GitProjects\Redington.ProbabilityCalculator\Redington.ProbabilityCalculator.Services\obj\Debug\net6.0\ref\Redington.ProbabilityCalculator.Services.dll
