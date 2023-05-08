@@ -1,5 +1,5 @@
 # Redington.ProbabilityCalculator
-Calculates the union or intersect probabilities given two inputs
+Calculates the union or intersect probabilities given two inputs. Logs output to user on frontend, also stores it along with date on a text file
 
 Uses MVC for a simple frontend, C# Library for service classes that perform business logic.
 Unit tests for most functionality, could be improved with acceptance testing verifying output of log file
